@@ -1,1 +1,1 @@
-# Prolog Lab
+# Prolog-Lab
